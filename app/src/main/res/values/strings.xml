@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Open GST</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">OpenGST</string>
+    <string name="calculator">Calculator</string>
+    <string name="gst_rates">Rates</string>
+    <string name="gst_updates">News</string>
+    <string name="gst_portal">Portal</string>
+    <string name="cgst">CGST(%s)</string>
+    <string name="sgst">SGST(%s)</string>
+    <string name="gst">GST(%s)</string>
+    <string name="app_id">ca-app-pub-1490495698690566~7660785919</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">Welcome to OpenGST</string>
+    <string name="total_label">Total Price</string>
+</resources>

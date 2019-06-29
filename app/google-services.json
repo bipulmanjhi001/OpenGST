@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377850496778",
+    "firebase_url": "https://opengst-1ad34.firebaseio.com",
+    "project_id": "opengst-1ad34",
+    "storage_bucket": "opengst-1ad34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377850496778:android:95b03d2f2e14da47",
+        "android_client_info": {
+          "package_name": "com.larvaesoft.opengst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377850496778-9igtne2voric82nqt3enb7nu96lqeiqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.larvaesoft.opengst",
+            "certificate_hash": "673a1c328eb4399289776b9b5851bf9db51cee92"
+          }
+        },
+        {
+          "client_id": "377850496778-8pvcnaesqeqbiahsvq75vpu053rhh0s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFMImumiKmrhp06-NqZc8XolRvetLlkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377850496778-8pvcnaesqeqbiahsvq75vpu053rhh0s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

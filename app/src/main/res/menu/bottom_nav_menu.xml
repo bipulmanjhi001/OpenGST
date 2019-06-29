@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/calculator"
+        android:title="@string/calculator" />
+    <item
+        android:icon="@drawable/ticket_percent"
+        android:title="@string/gst_rates" />
+    <item
+        android:icon="@drawable/cast_connected"
+        android:title="@string/gst_updates" />
+    <item
+        android:icon="@drawable/edge"
+        android:title="@string/gst_portal" />
+</menu>
